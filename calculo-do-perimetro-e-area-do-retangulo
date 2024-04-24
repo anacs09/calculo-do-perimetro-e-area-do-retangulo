@@ -1,0 +1,6 @@
+b=float(input("digite um numero"))
+h=float(input("digite um numero"))
+A=(b*h)
+p=2**(b*h)
+print ("o perimetro do retangulo é", (b+h)**2)
+print ("a area do retangulo é",b*h)
